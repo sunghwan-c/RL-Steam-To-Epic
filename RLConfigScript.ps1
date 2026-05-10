@@ -2,7 +2,7 @@
 # CONFIG
 # -----------------------------------------------
 $sourceDir = "C:\Users\YOURUSERNAME\Documents\My Games\Rocket League\TAGame\SaveData\DBE_Production"   # Directory to pick the 2 source files from
-$targetDir = "C:\Users\YOURUSENAME\Documents\My Games\Rocket League\TAGame\SaveDataEpic\DBE_Production"   # Directory to replace files in
+$targetDir = "C:\Users\YOURUSERNAME\Documents\My Games\Rocket League\TAGame\SaveDataEpic\DBE_Production"   # Directory to replace files in
 # -----------------------------------------------
 
 # --- Determine File1 and File2 from source dir (same logic as before) ---
