@@ -21,7 +21,7 @@ Download `RLConfigScript.ps1` and put it somewhere easy to access
 
 Edit `RLConfigScript.ps1` with a text editor (You can use Notepad)
 
-Where it says **YOURUSERNAME** you want to replace it with the **username of your Windows account**
+Where it says `YOURUSERNAME` you want to replace it with the `username of your Windows account`
 ```
 # -----------------------------------------------
 # CONFIG
