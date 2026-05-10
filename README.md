@@ -35,4 +35,4 @@ Finally, just save the file, then right click it and click run with powershell.
 
 If successful, your Epic Games account(s) should now have the exact same settings as your Steam settings!
 
-***If for some forsaken reason you are using v1.0.0 instead v2.0.0, then follow the instruction in READMEv1.md instead of these instructions***
+***If for some forsaken reason you are using v1.0.0 instead v2.0.0, then follow the instructions in READMEv1.md instead of these instructions***
