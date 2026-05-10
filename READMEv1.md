@@ -3,8 +3,6 @@
 
 A Windows powershell script to copy your Steam config (Video settings, settings, etc.) to your Epic Games Account(s)
 
-**NOTE: YOU ONLY HAVE TO DO ALL THE STEPS BELOW ONCE. AFTER THAT, YOU CAN JUST RIGHT CLICK AND RUN THE POWERSHELL SCRIPT WHENEVER AND IT SHOULD SYNC EACH TIME. NO ADDITIONAL EDITING REQUIRED**
-
 
 
 ## Known Issues
